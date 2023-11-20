@@ -29,6 +29,7 @@ p{
     font-family: var(--font-texto);
     font-size: 1em;
     text-indent: 7px;
+    text-align: justify;
     
 }
 header{
